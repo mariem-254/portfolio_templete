@@ -1,11 +1,11 @@
 export const contactsData = {
-    email: 'olympus0703@gmail.com',
-    phone: '+1 840 877 1942',
-    address: 'Middle Badda, Dhaka, Bangladesh - 1212 ',
-    github: 'https://github.com/said7388',
+    email: 'mariemabdo2542004@gmail.com',
+    phone: '+20 109 229 4720',
+    address: 'egypt, sharkia, kafr saqr',
+    github: 'https://github.com/mariemsalem254-code',
     facebook: 'https://www.facebook.com',
     linkedIn: 'https://www.linkedin.com',
     twitter: 'https://twitter.com',
     stackOverflow: 'https://stackoverflow.com',
-    devUsername: "said7388"
-}
+    devUsername: "mariemsalem254-code"
+}  
